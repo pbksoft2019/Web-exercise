@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f38374ab-8a8e-4f35-8407-c07780b7afa1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XDNsfcDh4twsIDMDbel19HJFJV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/java/BrowserDrivers" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Prakash\IdeaProjects\WebTest11\src\test\java\BrowserDrivers" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.WebExercise1.zaraRegistartion">
+    <configuration name="WebExercise1.autoReg" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="WebTest11" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ABC.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ABC" />
+      <option name="MAIN_CLASS_NAME" value="ABC.WebExercise1" />
+      <option name="METHOD_NAME" value="autoReg" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WebExercise1.mockPlusReg" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="WebTest11" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ABC.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ABC" />
+      <option name="MAIN_CLASS_NAME" value="ABC.WebExercise1" />
+      <option name="METHOD_NAME" value="mockPlusReg" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WebExercise1.mockPlusRegistartion" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="WebTest11" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ABC.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ABC" />
+      <option name="MAIN_CLASS_NAME" value="ABC.WebExercise1" />
+      <option name="METHOD_NAME" value="mockPlusRegistartion" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WebExercise1.zaraReg" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="WebTest11" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ABC.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ABC" />
+      <option name="MAIN_CLASS_NAME" value="ABC.WebExercise1" />
+      <option name="METHOD_NAME" value="zaraReg" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WebExercise1.zaraRegistartion" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="WebTest11" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ABC.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ABC" />
+      <option name="MAIN_CLASS_NAME" value="ABC.WebExercise1" />
+      <option name="METHOD_NAME" value="zaraRegistartion" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.WebExercise1.zaraRegistartion" />
+        <item itemvalue="JUnit.WebExercise1.mockPlusRegistartion" />
+        <item itemvalue="JUnit.WebExercise1.mockPlusReg" />
+        <item itemvalue="JUnit.WebExercise1.zaraReg" />
+        <item itemvalue="JUnit.WebExercise1.autoReg" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f38374ab-8a8e-4f35-8407-c07780b7afa1" name="Default Changelist" comment="" />
+      <created>1580576913685</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580576913685</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="422" y="166" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1580751316999">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="422" y="166" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1580751316999" />
+    <state width="1323" height="156" key="GridCell.Tab.0.bottom" timestamp="1580940948003">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="156" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1580940948003" />
+    <state width="1323" height="156" key="GridCell.Tab.0.center" timestamp="1580940948003">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="156" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1580940948003" />
+    <state width="1323" height="156" key="GridCell.Tab.0.left" timestamp="1580940948003">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="156" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1580940948003" />
+    <state width="1323" height="156" key="GridCell.Tab.0.right" timestamp="1580940948003">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="156" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1580940948003" />
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1580846867653">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1580846867653" />
+    <state width="1323" height="223" key="GridCell.Tab.1.center" timestamp="1580846867653">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1580846867653" />
+    <state width="1323" height="223" key="GridCell.Tab.1.left" timestamp="1580846867653">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1580846867653" />
+    <state width="1323" height="223" key="GridCell.Tab.1.right" timestamp="1580846867653">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1580846867653" />
+    <state x="213" y="18" key="Maven.ArtifactSearchDialog" timestamp="1580654405241">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="213" y="18" key="Maven.ArtifactSearchDialog/0.0.1366.728@0.0.1366.728" timestamp="1580654405241" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1580829788726">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1580829788726" />
+  </component>
+</project>
